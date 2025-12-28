@@ -1,36 +1,33 @@
 # 👋 Hi, I'm Bipin Mahat
-- 🌱 Passionate about programming and technology.
-- 🎓 Graduated Computer Engineering Technology at Seneca College.
-- 🚀 Open to collaboration on interesting projects.
+
+- 🌱 Passionate about programming and technology  
+- 🎓 Graduated in Computer Engineering Technology at Seneca College  
+- 🚀 Open to collaboration on interesting projects  
 
 ---
 
 ## 🛠️ Skills and Tools
-![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)
-![Python](https://img.shields.io/badge/-Python-green?logo=python)
-![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux)
-![C](https://img.shields.io/badge/-C-00599C?logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![C%23-239120](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipinmahat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinmahat&layout=compact&theme=radical)
+![Bipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipinmahat&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinmahat&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=bipinmahat&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bipinmahat&theme=radical&no-frame=true&margin-w=10)
 
 ---
 
-
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipinmahat-blue?logo=linkedin)](https://linkedin.com/in/bipinmahat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipin%20Mahat-blue?logo=linkedin)](https://linkedin.com/in/bipinmahat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://bipinmahat.github.io/)
-
-
