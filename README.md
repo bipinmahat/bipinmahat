@@ -17,8 +17,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bipinmahat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipinmahat&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipinmahat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinmahat&layout=compact&theme=radical)
 
 ---
 
