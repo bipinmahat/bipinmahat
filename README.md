@@ -1,33 +1,65 @@
 # 👋 Hi, I'm Bipin Mahat
 
-- 🌱 Passionate about programming and technology  
-- 🎓 Graduated in Computer Engineering Technology at Seneca College  
-- 🚀 Open to collaboration on interesting projects  
+I’m a Computer Engineering Technology graduate with a strong interest in building practical software solutions. I enjoy learning by doing, solving real problems, and taking ownership of projects from idea to implementation.
+
+- 🎓 Computer Engineering Technology – Seneca College  
+- 🌱 Passionate about programming, systems, and problem-solving  
+- 🚀 Open to collaboration on interesting and meaningful projects  
 
 ---
 
-## 🛠️ Skills and Tools
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C%23-239120](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+## 🛠️ Skills & Tools
+
+**Languages & Technologies**
+- C, C++, C#
+- Python
+- HTML, CSS
+- Linux
+
+**Core Strengths**
+- Problem-solving & logical thinking  
+- Data structures & algorithms (foundational level)  
+- Full-stack project development  
+- Learning new tools quickly and independently  
 
 ---
 
-## 📊 GitHub Stats
-![Bipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bipinmahat&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bipinmahat&layout=compact&theme=radical&hide_border=true)
+## 🚀 Featured Projects
+
+### ❤️ NepaliLove – Full-Stack Dating App
+A culturally focused dating application designed to connect Nepali users through a simple, user-friendly experience.
+
+**Highlights**
+- User authentication and profile creation  
+- Matching logic and messaging features  
+- Full-stack development with frontend and backend integration  
+- Built as an end-to-end project, from idea to working prototype  
+
+🔗 **GitHub Repository:**  
+https://github.com/bipinmahat/NepaliLove
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bipinmahat&theme=radical&no-frame=true&margin-w=10)
+## 📚 Other Work
+- Academic and personal programming projects demonstrating fundamentals in C, C++, Python, and web technologies  
+- Continuous practice through coding challenges and experimentation  
 
 ---
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bipin%20Mahat-blue?logo=linkedin)](https://linkedin.com/in/bipinmahat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://bipinmahat.github.io/)
+## 🎯 What I’m Looking For
+I’m seeking opportunities where I can:
+- Work in a hands-on, builder-focused environment  
+- Learn from experienced engineers  
+- Contribute to real systems and products  
+- Grow into a strong, well-rounded software engineer  
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** https://linkedin.com/in/bipinmahat  
+- **Portfolio:** https://bipinmahat.github.io/  
+
+---
+
+⭐ *I value curiosity, ownership, and continuous improvement, and I’m always excited to build and learn something new.*
